@@ -8,7 +8,7 @@
 ## I M AAYUSH 
 
 
-<img width="500" height="150" alt="Destiny_Demins-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/f2d90ee5-ec51-4216-a14d-5aa3babb2381" />
+<img width="500" height="250" alt="Destiny_Demins-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/f2d90ee5-ec51-4216-a14d-5aa3babb2381" />
 <p align="center">
 ---
 
