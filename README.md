@@ -5,7 +5,7 @@
 
 
 # Hi there 👋
-## I M AAYUSH panche
+## I M AAYUSH
 
 
 
