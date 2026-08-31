@@ -25,12 +25,4 @@ Currently exploring programming, websites, animation, and game-inspired digital 
 - Goal: become better every day by building real projects
 
 ---
-<div align="center">
 
-### Thanks for visiting my profile
-
-![Profile Views](https://komarev.com/ghpvc/?username=aayushpancheofficial&style=for-the-badge&color=8b5cf6)
-
-> Keep learning. Keep building. Keep improving.
-
-</div>
