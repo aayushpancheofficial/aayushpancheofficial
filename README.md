@@ -1,12 +1,13 @@
 <!--- banner  --->
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/1dc74e60-1be8-415c-a8b5-7a0a86a805fa"
+    src="https://github.com/user-attachments/assets/d805e393-3863-48ea-86b4-de3cd30c860f"
     alt="Tech"
     width="940"
     height="300"
   />
 </p>
+
 
 <!--- me  --->
 <div align="center">
