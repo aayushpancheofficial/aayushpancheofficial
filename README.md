@@ -8,8 +8,7 @@
     <td width="65%" align="left" valign="middle">
 
    <h1>⚡ A A Y U S H ⚡</h1>
-      <h3>Hi, I'm Aayush Panche</h3>
-      <p>💻 Developer | AI Explorer | Creator</p>
+      <h1>💻 Developer | AI Explorer | Creator</h1>
       <p>Building things, breaking things, and learning every day.</p>
       <p><b>「 CODE 」 「 LEARN 」 「 GROW 」</b></p>
 
