@@ -1,32 +1,46 @@
+<!--- banner  --->
 
 
-<table>
+<!--- me  --->
+<div align="center">
+
+<table border="0" cellpadding="0" cellspacing="0"
+       style="border: none; border-collapse: collapse;">
   <tr>
-    <td width="35%" align="center" valign="middle">
-      <img src="gif/Animated%20Chibi%20Coder%20Typing%20Sequence.gif" width="250" />
+    <td align="center" style="border: none;">
+      <img src="gif/bat-transparent.gif" alt="" width="120" />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="gif/bat-transparent.gif" alt="" width="80" />
     </td>
-    <td width="65%" align="left" valign="middle">
 
-   <h1>꧁༒Aayush༒꧂</h1>
-      <h2>💻 Software Developer </h2>
-      <p>Building things, breaking things, and learning every day.</p>
-      <p><b>CODE ,LEARN, AI</b></p>
+  <td style="border: none;">
+      <table border="0" cellpadding="0" cellspacing="0"
+             style="border: none; border-collapse: collapse;">
+        <tr>
+          <td align="center" valign="middle" style="border: none;">
+            <img src="gif/Animated%20Chibi%20Coder%20Typing%20Sequence.gif"
+                 alt="Animated chibi coder" width="220" />
+          </td>
 
-   </td>
+  <td align="center" valign="middle" style="border: none;">
+            <h1>꧁༒Aayush༒꧂</h1>
+            <strong>💻 Software Developer</strong>
+            <p>Building things, breaking things, and learning every day.</p>
+            <p><strong>CODE · LEARN · AI</strong></p>
+          </td>
+        </tr>
+      </table>
+    </td>
+
+  <td align="center" style="border: none;">
+      <img src="gif/bat-transparent.gif" alt="" width="120" />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="gif/bat-transparent.gif" alt="" width="80" />
+    </td>
   </tr>
 </table>
 
-
-#  I'm Aayush Panche
-
-### Learning C++, Web Development, and Animation
-
-I am a curious developer from Chhattisgarh who loves building creative things with code.  
-Currently exploring programming, websites, animation, and game-inspired digital projects.
-
 </div>
-
----
 
 ## About Me
 
@@ -38,14 +52,11 @@ Currently exploring programming, websites, animation, and game-inspired digital 
 
 
 
+
+
 <p align="center">
-  <img src="./gif/under-c
-
-https://github.com/user-attachments/assets/51db6d63-471b-471f-bacd-0f810fa0cc9c
-
-onstruction.gif" alt="Under construction">
+  <img src="./gif/under-construction.gif" alt="Under construction">
 </p>
 
-Uploading Nat4ngn_ssspin.io_1795165456.mp4…
 
 
