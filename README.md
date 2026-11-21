@@ -60,22 +60,20 @@
 
 
 ### About Me
-
-1\. **Introduction:** B.Tech CSE student at SSIPMT, Raipur, from a small village in Chhattisgarh. Ambitious, curious and passionate about learning.
-
-2\. **Technical Interests:** Web Development, AI, Full-Stack Development, DSA and exploring new technologies.
-
-3\. **Content Creation:** Building my personal brand through YouTube, LinkedIn and X. Believe in Learning in Public.
-
-4\. **Personal Growth:** Improving English communication, leadership, confidence, creativity and problem-solving skills.
-
-5\. **Future Vision:** Become a skilled developer, financially independent and eventually build a technology company that creates meaningful impact.
+- Currently living in Raipur, Chhattisgarh
+- B.Tech CSE student passionate about Web Development & AI
+- Currently learning C++, React, Node.js & Backend Development
+- Interested in creative coding, animations, and building cool projects
+- Sharing my learning journey and growing through real-world projects
+- Dreaming big, learning every day, and building something meaningful.
 <p align="center">
   <a href="https://www.linkedin.com/in/aayushpanche2005/"><img src="https://skillicons.dev/icons?i=linkedin" width="35"></a>
   &nbsp;&nbsp;
   <a href="https://x.com/iam_aayush005"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="35"></a>
   &nbsp;&nbsp;
-  <a href="https://aayushpanche.vercel.app"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="35"></a>
+<a href="https://aayushpanche.vercel.app">
+  <img src="https://cdn.simpleicons.org/googlechrome/FFFFFF" width="35" alt="Portfolio">
+</a>
 </p>
 
 
