@@ -8,7 +8,7 @@
        style="border: none; border-collapse: collapse;">
   <tr>
     <td align="center" style="border: none;">
-      <img src="gif/bat-transparent.gif" alt="" width="120" />
+      <img src="gif/bat-transparent.gif" alt="" width="100" />
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="gif/bat-transparent.gif" alt="" width="80" />
     </td>
@@ -33,7 +33,7 @@
     </td>
 
   <td align="center" style="border: none;">
-      <img src="gif/bat-transparent.gif" alt="" width="120" />
+      <img src="gif/bat-transparent.gif" alt="" width="100" />
       &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="gif/bat-transparent.gif" alt="" width="80" />
     </td>
