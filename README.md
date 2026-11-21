@@ -14,11 +14,15 @@
 <table border="0" cellpadding="0" cellspacing="0"
        style="border: none; border-collapse: collapse;">
   <tr>
-    <td align="center" style="border: none;">
-      <img src="gif/bat-transparent.gif" alt="" width="80" />
-      &nbsp;&nbsp;&nbsp;&nbsp;
-      <img src="gif/bat-transparent.gif" alt="" width="30" />
-    </td>
+    <td align="center" valign="middle">
+  <img src="gif/bat-transparent.gif" alt="" width="80" />
+  <br />
+<img
+  src="https://media.tenor.com/nlSUMUN4EZsAAAAi/campfire.gif"
+  alt="Campfire"
+  height="50"
+/>
+</td>
 
   <td style="border: none;">
       <table border="0" cellpadding="0" cellspacing="0"
@@ -40,8 +44,14 @@
     </td>
 
   <td align="center" style="border: none;">
-      <img src="gif/bat-transparent.gif" alt="" width="80" />
-   <img src="gif/bat-transparent.gif" alt="" width="30" />
+   <td align="center" valign="middle">
+  <img src="gif/bat-transparent.gif" alt="" width="80" />
+  <br />
+<img
+  src="https://media.tenor.com/nlSUMUN4EZsAAAAi/campfire.gif"
+  alt="Campfire"
+  height="50"
+/>
     </td>
   </tr>
 </table>
