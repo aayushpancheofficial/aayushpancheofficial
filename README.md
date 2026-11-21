@@ -1,5 +1,12 @@
 <!--- banner  --->
-
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/1dc74e60-1be8-415c-a8b5-7a0a86a805fa"
+    alt="Tech"
+    width="940"
+    height="300"
+  />
+</p>
 
 <!--- me  --->
 <div align="center">
