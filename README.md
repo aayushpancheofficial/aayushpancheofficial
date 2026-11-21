@@ -1,7 +1,7 @@
 <!--- banner  --->
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/d805e393-3863-48ea-86b4-de3cd30c860f"
+    src="https://github.com/user-attachments/assets/9984c2ff-5fe7-4cb5-82e2-05ec5fc2caf4"
     alt="Tech"
     width="940"
     height="300"
