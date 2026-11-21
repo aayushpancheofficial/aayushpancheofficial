@@ -19,7 +19,7 @@
         <tr>
           <td align="center" valign="middle" style="border: none;">
             <img src="gif/Animated%20Chibi%20Coder%20Typing%20Sequence.gif"
-                 alt="Animated chibi coder" width="220" />
+                 alt="Animated chibi coder" width="180" />
           </td>
 
   <td align="center" valign="middle" style="border: none;">
