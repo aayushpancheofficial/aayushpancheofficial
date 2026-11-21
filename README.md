@@ -7,17 +7,17 @@
     </td>
     <td width="65%" align="left" valign="middle">
 
-   <h1>⚡ A A Y U S H ⚡</h1>
-      <h1>💻 Developer | AI Explorer | Creator</h1>
+   <h1>꧁༒Aayush༒꧂</h1>
+      <h2>💻 Software Developer </h2>
       <p>Building things, breaking things, and learning every day.</p>
-      <p><b>「 CODE 」 「 LEARN 」 「 GROW 」</b></p>
+      <p><b>CODE ,LEARN, AI</b></p>
 
-    </td>
+   </td>
   </tr>
 </table>
 
 
-# Hi there, I'm Aayush Panche
+#  I'm Aayush Panche
 
 ### Learning C++, Web Development, and Animation
 
@@ -39,5 +39,13 @@ Currently exploring programming, websites, animation, and game-inspired digital 
 
 
 <p align="center">
-  <img src="./gif/under-construction.gif" alt="Under construction">
+  <img src="./gif/under-c
+
+https://github.com/user-attachments/assets/51db6d63-471b-471f-bacd-0f810fa0cc9c
+
+onstruction.gif" alt="Under construction">
 </p>
+
+Uploading Nat4ngn_ssspin.io_1795165456.mp4…
+
+
