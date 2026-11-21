@@ -8,9 +8,9 @@
        style="border: none; border-collapse: collapse;">
   <tr>
     <td align="center" style="border: none;">
-      <img src="gif/bat-transparent.gif" alt="" width="100" />
-      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="gif/bat-transparent.gif" alt="" width="80" />
+      &nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="gif/bat-transparent.gif" alt="" width="30" />
     </td>
 
   <td style="border: none;">
@@ -19,11 +19,11 @@
         <tr>
           <td align="center" valign="middle" style="border: none;">
             <img src="gif/Animated%20Chibi%20Coder%20Typing%20Sequence.gif"
-                 alt="Animated chibi coder" width="180" />
+                 alt="Animated chibi coder" width="150" />
           </td>
 
   <td align="center" valign="middle" style="border: none;">
-            <h1>꧁༒Aayush༒꧂</h1>
+            <h2>꧁༒Aayush༒꧂</h2>
             <strong>💻 Software Developer</strong>
             <p>Building things, breaking things, and learning every day.</p>
             <p><strong>CODE · LEARN · AI</strong></p>
@@ -33,14 +33,14 @@
     </td>
 
   <td align="center" style="border: none;">
-      <img src="gif/bat-transparent.gif" alt="" width="100" />
-      &nbsp;&nbsp;&nbsp;&nbsp;
       <img src="gif/bat-transparent.gif" alt="" width="80" />
+   <img src="gif/bat-transparent.gif" alt="" width="30" />
     </td>
   </tr>
 </table>
 
 </div>
+
 
 ## About Me
 
