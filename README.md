@@ -59,16 +59,24 @@
 </div>
 
 
-## About Me
+### About Me
 
-- Currently in **Raipur**
-- From **Rampur, Chhattisgarh**
-- Learning **C++**, **Web Development**, and **Animation**
-- Interested in **creative coding**, **gaming-style UIs**, and **anime-inspired visuals**
-- Goal: become better every day by building real projects
+1\. **Introduction:** B.Tech CSE student at SSIPMT, Raipur, from a small village in Chhattisgarh. Ambitious, curious and passionate about learning.
 
+2\. **Technical Interests:** Web Development, AI, Full-Stack Development, DSA and exploring new technologies.
 
+3\. **Content Creation:** Building my personal brand through YouTube, LinkedIn and X. Believe in Learning in Public.
 
+4\. **Personal Growth:** Improving English communication, leadership, confidence, creativity and problem-solving skills.
+
+5\. **Future Vision:** Become a skilled developer, financially independent and eventually build a technology company that creates meaningful impact.
+<p align="center">
+  <a href="https://www.linkedin.com/in/aayushpanche2005/"><img src="https://skillicons.dev/icons?i=linkedin" width="35"></a>
+  &nbsp;&nbsp;
+  <a href="https://x.com/iam_aayush005"><img src="https://cdn.simpleicons.org/x/FFFFFF" width="35"></a>
+  &nbsp;&nbsp;
+  <a href="https://aayushpanche.vercel.app"><img src="https://cdn.simpleicons.org/vercel/FFFFFF" width="35"></a>
+</p>
 
 
 <p align="center">
