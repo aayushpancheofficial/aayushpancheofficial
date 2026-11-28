@@ -1,13 +1,14 @@
 <!--- banner  --->
 <p align="center">
-  <img
-    src="https://github.com/user-attachments/assets/9984c2ff-5fe7-4cb5-82e2-05ec5fc2caf4"
-    alt="Tech"
-    width="940"
-    height="300"
-  />
+  <a href="https://aayushpanche.vercel.app/work" target="_blank" rel="noreferrer">
+    <img
+      src="https://github.com/user-attachments/assets/9984c2ff-5fe7-4cb5-82e2-05ec5fc2caf4"
+      alt="Tech"
+      width="940"
+      height="300"
+    />
+  </a>
 </p>
-
 
 <!--- me  --->
 <div align="center">
